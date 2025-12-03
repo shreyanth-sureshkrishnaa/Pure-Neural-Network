@@ -1,6 +1,7 @@
 # Pure-Neural-Network
 A neural network built from scratch. 
 
+## [NOTEBOOK LINK](https://colab.research.google.com/drive/1F4LWc3Xp52PwpmDbYKJBwBzbOweoV-cK?usp=sharing)
 ## Neural Networks Introduction
 
 This repository contains a beginner-friendly exploration of neural networks, featuring two implementations:
